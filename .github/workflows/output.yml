@@ -1,4 +1,4 @@
-name: Deploy Project
+name: Output Project
 on: push
 jobs:
   lint:
